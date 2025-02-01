@@ -1,0 +1,12 @@
+anaconda_projects/
+city_temperature
+tp-exercice3
+tpchill/data/
+tpchill/Document/
+tpchill.zip
+tp2/data/
+tp1/scrore
+tp-exercice3/.ipynb_checkpoints/
+city_temperature.csv
+git_filter_repo.py
+__pycache__/
